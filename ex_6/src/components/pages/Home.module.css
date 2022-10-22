@@ -1,0 +1,9 @@
+.center h1{
+    display: flex;
+    justify-content: center;
+}
+.center h2{
+    color: rgb(145, 207, 246);
+    display: flex;
+    justify-content: center;
+}
